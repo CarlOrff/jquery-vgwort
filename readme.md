@@ -6,7 +6,7 @@ by analyzing and manipulating the href attribute. See [VG Wort manual (in German
 
 Features:
 
-* old hashes with 30 instead of 32characters
+* old hashes with 30 instead of 32 characters
 * capitalized URLs
 * proprietary publisher subdomains
 * no specific file extension needed
