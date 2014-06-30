@@ -14,7 +14,7 @@ Features:
 ## Usage
 	$('a').setVgwortPdfLink();
 	
-	## Author and license
+## Author and license
 (c) 2012- Ingram Braun
 
 Licensed [Gnu Public License](http://www.gnu.org/copyleft/gpl.html)
