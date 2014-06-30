@@ -12,7 +12,9 @@ Features:
 * no specific file extension needed
 
 ## Usage
-	$('a').setVgwortPdfLink();
+	<script src="//code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
+	<script src="jquery-vgwort.min.js" type="text/javascript"></script>
+	<script type="text/javascript">$( document ).ready( function(){ $('a').setVgwortPdfLink() } )</script>
 	
 ## Author and license
 (c) 2012- Ingram Braun
